@@ -11,5 +11,7 @@ $$\mathbb{P}(s)=\sum_{n=1}^{\infty}\frac{\mu(n)}{n}\log\zeta(ns),$$
 
 where $\zeta(s)$ is the Riemann zeta function and $\mu(n)$ is the Möbius function.
 
-In this project, we share the discovered prime zeta zeros and provide the associated program codes. The zeros database covers the range $0.1 < \sigma < \infty$ and $0 < t < 10^4$.
+In this project, we share the discovered prime zeta zeros and provide the associated program codes.
+
+The zeros database covers the range $0.1 < \sigma < \infty$ and $0 < t < 10^4$.
 
