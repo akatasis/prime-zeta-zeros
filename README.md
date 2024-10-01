@@ -13,5 +13,8 @@ where $\zeta(s)$ is the Riemann zeta function and $\mu(n)$ is the Möbius functi
 
 In this project, we share the discovered prime zeta zeros and provide the associated program codes.
 
-The zeros database covers the range $0.1 < \sigma < \infty$ and $0 < t < 10^4$.
+The zeros database covers $0.1 < \sigma < \infty$ and $0 < t < 10^4$.
 
+For the search of these zeros, the differential evolution method was applied.
+
+The computation of prime zeta values used the Cohen method and the Zetafast algorithm.
