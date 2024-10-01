@@ -9,7 +9,7 @@ The analytical continuation of the prime zeta function in the critical strip $0<
 
 $$\mathbb{P}(s)=\sum_{n=1}^{\infty}\frac{\mu(n)}{n}\log\zeta(ns),$$
 
-where $zeta(s)$ is the Riemann zeta function and $\mu(n)$ is the Möbius function.
+where $\zeta(s)$ is the Riemann zeta function and $\mu(n)$ is the Möbius function.
 
 
 
