@@ -1,5 +1,7 @@
 ## Prime Zeta Zeros
 The Prime Zeta function is defined as the summation
 
-$$P(s) = \sum_{p \in \mathbb{P}}^{\infty} \frac{1}{p^s}.$$
+$$P(s) = \sum_{p \in \mathbb{P}} \frac{1}{p^s},$$
+
+where $s=\sigma+i$ is a complex variable and \mathbb{P} is the set of prime numbers.
 
